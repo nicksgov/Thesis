@@ -8,3 +8,5 @@ A general problem, which is certainly linked to the emergence of new technologie
 We are called to solve this problem in this thesis. Using machine learning algorithms and other statistical approaches, we strive to achieve more data acquisition through synthetic generation. In the present work, the proposed technique was implemented in a PyCharm environment using 'Python' programming language and applied to generate one-time synthetic data of both active and reactive power for 3 different buses. A key concern is to maintain the same correlation of the load data of the different buses with each other, initially and finally. Finally, the data is checked for suitability by comparing some statistical metrics and through a power flow analysis.
 
 
+1) In 'DATA' folder you can find my 6 excel files which contain the data used for the experiment
+2) 
