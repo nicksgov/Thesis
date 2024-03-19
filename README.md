@@ -1,6 +1,6 @@
 Hello to all
 
-This is my thesis. It includes an abstract at the beginning, followed by instructions on how to find the code and data used for the analysis."
+This is the Readme for my 'Thesis' project which is actually based on my univercity thesis . It includes an abstract at the beginning, followed by instructions on how to find the code and data used for the analysis."
 
 Abstract
 
@@ -10,4 +10,4 @@ We are called to solve this problem in this thesis. Using machine learning algor
 Instructions
 
 1) In 'Data' folder you can find my 6 excel files which contain the data used for the experiment
-2) 
+2) By the end of 03/2024 you will find extra codes to understand my experiment due to 
