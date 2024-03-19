@@ -10,4 +10,4 @@ We are called to solve this problem in this thesis. Using machine learning algor
 Instructions
 
 1) In 'Data' folder you can find my 6 excel files which contain the data used for the experiment
-2) By the end of 03/2024 you will find extra codes to understand my experiment due to 
+2) By the end of 03/2024 you will find extra codes to understand my experiment (due to optimization purposes)
