@@ -11,4 +11,9 @@ Instructions
 
 1) In 'Data' folder you can find my 6 excel files which contain the data used for the experiment
 2) In the "Drawings of Theoritical part" notebook you can find the coding used for the theoritical part of the thesis
-3) By the end of 03/2024 you will find extra codes to understand my experiment (due to optimization purposes)
+3) In the "My Thesis's code" notebook you can find the the main code of my Thesis.
+
+Don't hesitate to contact me by email or via my LinkedIn account for any further information or clarification. My contact details are as follows:
+
+Email:     nikosgov@outlook.com
+LinkedIn:  www.linkedin.com/in/nikosgov/
