@@ -9,5 +9,5 @@ We are called to solve this problem in this thesis. Using machine learning algor
 
 Instructions
 
-1) In 'DATA' folder you can find my 6 excel files which contain the data used for the experiment
+1) In 'Data' folder you can find my 6 excel files which contain the data used for the experiment
 2) 
